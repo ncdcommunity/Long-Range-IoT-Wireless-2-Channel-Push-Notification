@@ -1,5 +1,7 @@
 # Long-Range-IoT-Wireless-2-Channel-Push-Notification
 Industrial Dry Contact Push Notification 
+
+
 Industrial IoT Long Range Wireless 2 Channel Push Notification Transmitter With 2 Mile Range
 
 Long range wireless IoT Thermocouple sensor can be found over here https://store.ncd.io/product/iot-long-range-wireless-push-notification-dry-contact-transmitter/
